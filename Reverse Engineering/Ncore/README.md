@@ -23,7 +23,7 @@ ram.hex (this file acts as the bytecode of a small VM), then server.py will be r
 
 ![image](https://user-images.githubusercontent.com/62060867/133419492-7ae92f42-acad-403b-96f9-4dcf7be5e8b4.png)
 
-### 2. Exploit VM và get flag
+### 2. Exploit VM and get flag
 - After analyzing the operation of the instructions of the VM, I noticed a few important commands such as:
 
 + MOVFS: load the hex-byte of the flag to the register of the VM, here combined with the MOVT command (store the reg value to the VM's ram), we can successfully leak the flag
