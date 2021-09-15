@@ -16,4 +16,3 @@ In the .zip file we have:
 
 ![image](https://user-images.githubusercontent.com/62060867/133422918-308da882-6121-42d9-b37a-f88b643f7d13.png)
 
-# 1. Scheduled tasks
